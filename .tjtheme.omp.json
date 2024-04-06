@@ -40,6 +40,17 @@
           "template": "❯ "
         }
       ]
-    }
+    },
+    {
+      "type": "rprompt",
+      "segments": [
+        {
+          "type": "python",
+          "foreground": "#c5bc55",
+          "style": "plain",
+          "template": " {{ if .Error }}{{ .Error }}{{ else }}{{ if .Venv }}{{ .Venv }} {{ end }}{{ .Full }}{{ end }} "
+        }
+      ]
+    }    
   ]
 }
