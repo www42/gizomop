@@ -1,0 +1,4 @@
+gh --version
+gh auth login 
+gh auth refresh -h github.com -s codespace
+gh codespace list
