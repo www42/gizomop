@@ -15,3 +15,12 @@
 ### GitHub Actions
 
 [GitHub Actions documentation - GitHub Docs](https://docs.github.com/en/actions)
+
+### GitHub Copilot
+
+[GitHub Copilot documentation - GitHub Docs](https://docs.github.com/en/copilot)
+
+[GitHub Copilot Plans and Pricing](https://github.com/features/copilot/plans)
+
+Potenziale von GitHub, Azure OpenAI, Microsoft 365 Copilot kennenlernen
+Für Entscheidungsträger im Unternehmen
